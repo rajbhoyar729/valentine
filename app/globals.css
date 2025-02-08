@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Great+Vibes&family=Nunito:wght@400;700&family=Parisienne&family=Poppins:ital,wght@0,400;0,700;1,400&family=Quicksand:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #ffb6c1;
-  --secondary-color: #ff69b4;
+  --primary-color: #ff7eb6;
+  --secondary-color: #ff4d94;
   --background-start: #fff0f5;
   --background-end: #ffc0cb;
   --accent-color: #ffd700;
   --text-color: #333;
   --rose-gold: #b76e79;
+  --heart-color: #ff6b81;
 }
 
 body {
@@ -134,4 +135,3 @@ h2 {
   margin-left: -20px;
   margin-bottom: -20px;
 }
-
